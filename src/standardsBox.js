@@ -58,25 +58,25 @@ var data = [
    standard:{
      sciencePractice:{
        title:"Science Practice",
-       text:"Engaging In Argument From Evidence"
+       text:"Using Mathematics and Computational Thinking"
      },
 
      performanceExpectation:{
        title:"Performance Expectation:",
-       text:"??"
+       text:"HS-LS4-6: Create or revise a simulation to test a solution to mitigate adverse impacts of human activity on biodiversity."
      },
 
      disciplinaryCoreIdea:{
        title: "Disciplinary Core Idea:",
-       subtitle: "??",
-       text: "??"
+       subtitle: "LS4.D: Biodiversity and Humans",
+       text: "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change."
 
      },
 
      crossCuttingConcept:{
        title: "Cross-Cutting Concept:",
-       subtitle: "??",
-       text: "??"
+       subtitle: "Cause and Effect",
+       text: "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
      }
 
    }}
